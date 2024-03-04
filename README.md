@@ -1,4 +1,4 @@
-#Lecture1
+Lecture1
 #Pattern Problems in C++
 
 This folder contains solutions to various pattern problems implemented in C++.
