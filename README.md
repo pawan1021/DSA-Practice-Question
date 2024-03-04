@@ -1,5 +1,5 @@
-<h1>Lecture1</h1>
-# Pattern Problems in C++
+#Lecture1
+Pattern Problems in C++
 
 This folder contains solutions to various pattern problems implemented in C++.
 
